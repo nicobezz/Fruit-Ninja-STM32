@@ -1,0 +1,4 @@
+../Core/Src/fruits.c:31:6:fruit_launch	5
+../Core/Src/fruits.c:54:6:fruit_control	6
+../Core/Src/fruits.c:69:6:launch_fruit_random	1
+../Core/Src/fruits.c:81:6:launch_fruit_physics_update	2

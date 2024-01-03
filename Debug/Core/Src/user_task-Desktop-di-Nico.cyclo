@@ -1,0 +1,8 @@
+../Core/Src/user_task.c:58:6:freeRTOS_user_init	4
+../Core/Src/user_task.c:114:13:task_fruit_launch	6
+../Core/Src/user_task.c:122:13:task_fruit_control	2
+../Core/Src/user_task.c:134:13:task_display_game	2
+../Core/Src/user_task.c:148:13:task_touch_fct	4
+../Core/Src/user_task.c:183:6:tim4_cb	1
+../Core/Src/user_task.c:187:13:sw_tim_touch_cb	1
+../Core/Src/user_task.c:192:13:sw_tim_disp_cb	1

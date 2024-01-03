@@ -1,0 +1,8 @@
+../Core/Src/fruits.c:47:6:fruit_launch	16	static
+../Core/Src/fruits.c:80:6:fruit_control	8	static
+../Core/Src/fruits.c:120:6:launch_fruit_random	16	static
+../Core/Src/fruits.c:136:6:launch_fruit_physics_update	24	static
+../Core/Src/fruits.c:163:6:fruit_slice_control	32	static
+../Core/Src/fruits.c:208:9:doesIntersect	80	static
+../Core/Src/fruits.c:236:6:slice_fruit	32	static
+../Core/Src/fruits.c:274:6:slice_physics_update	24	static

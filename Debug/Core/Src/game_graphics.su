@@ -1,0 +1,9 @@
+../Core/Src/game_graphics.c:42:6:update_screen_game	16	static
+../Core/Src/game_graphics.c:111:6:update_screen_menu	8	static
+../Core/Src/game_graphics.c:121:6:update_screen_gameover	8	static
+../Core/Src/game_graphics.c:133:6:Draw_Fruit	24	static
+../Core/Src/game_graphics.c:162:6:Print_Touch	24	static
+../Core/Src/game_graphics.c:180:6:Print_Lives	16	static
+../Core/Src/game_graphics.c:216:6:Draw_Slice	24	static
+../Core/Src/game_graphics.c:242:6:drawBitmap	40	static
+../Core/Src/game_graphics.c:281:10:convertToARGB8888	24	static

@@ -1,0 +1,8 @@
+../Core/Src/fruits.c:47:6:fruit_launch	10
+../Core/Src/fruits.c:80:6:fruit_control	16
+../Core/Src/fruits.c:120:6:launch_fruit_random	1
+../Core/Src/fruits.c:136:6:launch_fruit_physics_update	3
+../Core/Src/fruits.c:163:6:fruit_slice_control	15
+../Core/Src/fruits.c:208:9:doesIntersect	10
+../Core/Src/fruits.c:236:6:slice_fruit	2
+../Core/Src/fruits.c:274:6:slice_physics_update	2

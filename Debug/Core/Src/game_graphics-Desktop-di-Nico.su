@@ -1,0 +1,6 @@
+../Core/Src/game_graphics.c:30:6:update_screen_game	16	static
+../Core/Src/game_graphics.c:92:6:Draw_Fruit	24	static
+../Core/Src/game_graphics.c:117:6:Print_Touch	24	static
+../Core/Src/game_graphics.c:129:6:Draw_Slice	24	static
+../Core/Src/game_graphics.c:150:6:drawBitmap	40	static
+../Core/Src/game_graphics.c:174:10:convertToARGB8888	24	static

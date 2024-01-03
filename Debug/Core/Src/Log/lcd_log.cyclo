@@ -1,0 +1,9 @@
+../Core/Src/Log/lcd_log.c:142:6:LCD_LOG_Init	1
+../Core/Src/Log/lcd_log.c:156:6:LCD_LOG_DeInit	1
+../Core/Src/Log/lcd_log.c:178:6:LCD_LOG_SetHeader	1
+../Core/Src/Log/lcd_log.c:202:6:LCD_LOG_SetFooter	1
+../Core/Src/Log/lcd_log.c:226:6:LCD_LOG_ClearTextZone	2
+../Core/Src/Log/lcd_log.c:244:1:__io_putchar	11
+../Core/Src/Log/lcd_log.c:320:6:LCD_LOG_UpdateDisplay	5
+../Core/Src/Log/lcd_log.c:368:13:LCD_LOG_ScrollBack	12
+../Core/Src/Log/lcd_log.c:440:13:LCD_LOG_ScrollForward	9

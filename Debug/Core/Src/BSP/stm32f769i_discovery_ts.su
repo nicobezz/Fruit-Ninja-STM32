@@ -1,0 +1,4 @@
+../Core/Src/BSP/stm32f769i_discovery_ts.c:184:9:BSP_TS_Init	24	static
+../Core/Src/BSP/stm32f769i_discovery_ts.c:245:9:BSP_TS_ITConfig	32	static
+../Core/Src/BSP/stm32f769i_discovery_ts.c:279:9:BSP_TS_GetState	48	static
+../Core/Src/BSP/stm32f769i_discovery_ts.c:468:13:BSP_TS_INT_MspInit	32	static
